@@ -6,7 +6,7 @@
 - **Correo:** lauraherrod@unisabana.edu.co
 
 ## Enlace de despliegue (GitHub Pages)
-[Ver página desplegada]()
+[Ver página desplegada](https://dsaw-2025-ii.github.io/my-cv-part-c-Lauraher2906/)
 ## Pantallazo de realización del juego de la rana y el jardín
 ![Felxbox Froggy game solution](Flexbox-Froggy.png)
 ![Grid Gaden game solution](Grid-Garden.png)
